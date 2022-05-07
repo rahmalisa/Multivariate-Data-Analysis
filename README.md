@@ -1,2 +1,2 @@
 # Multivariate-Data-Analysis
-Multivariate Data Analysis using R Studio
+The code of multivariate data analysis using R Studio
